@@ -1,0 +1,2 @@
+# IdateAnxietyScale
+(explicar )
