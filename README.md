@@ -137,4 +137,4 @@ yarn start
 
 ### Marcos Daniel Gomes Dantas.
 
-[<img src="https://github.com/linkedin.png" width="30" height="30">](https://www.linkedin.com/in/seuperfil)
+[<img src="https://github.com/linkedin.png" width="30" height="30">](www.linkedin.com/in/mdanieldantas)
